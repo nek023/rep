@@ -5,7 +5,7 @@ Simple CLI tool for text replacement.
 ## Installation
 
 ```sh
-go install github.com/nek023/rep
+go install github.com/nek023/rep@latest
 ```
 
 ## Usage
